@@ -1,6 +1,10 @@
 from pyteal import *
 
+
 def rent_to_own():
+    """
+    """
+
     # Define schema
     local_schema = LocalSchema(num_uints=1)
     global_schema = GlobalSchema(num_uints=3)
