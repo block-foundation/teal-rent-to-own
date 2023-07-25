@@ -3,6 +3,8 @@
     "extensions": [
         "james-yu.latex-workshop"
     ],
-    "dockerFile": "Dockerfile"
-
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    }
 } 
