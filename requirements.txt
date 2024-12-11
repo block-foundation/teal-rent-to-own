@@ -1,4 +1,4 @@
-atomicwrites==1.4.0
+atomicwrites==1.4.1
 attrs==24.2.0
 black==21.11b1
 cffi==1.15.0
